@@ -55,17 +55,17 @@ This project uses locally stored audio files and retrieves song, artist, and use
 ## Project Structure
 Make sure project has these files:
 Spotify-Desktop-Clone/
-├── src/
-├── nbproject/
-│   ├── build-impl.xml
-│   ├── genfiles.properties
-│   ├── project.properties
-│   └── project.xml
-├── lib/
-│   ├── mysql-connector-java-8.0.xx.jar
-│   └── otherlibraries
-├── build.xml
-├── manifest.mf
+├── src/  
+├── nbproject/  
+│   ├── build-impl.xml  
+│   ├── genfiles.properties  
+│   ├── project.properties  
+│   └── project.xml  
+├── lib/  
+│   ├── mysql-connector-java-8.0.xx.jar  
+│   └── otherlibraries  
+├── build.xml  
+├── manifest.mf  
 
 ## Screenshots
 
