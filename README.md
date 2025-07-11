@@ -82,3 +82,5 @@ Here is the main UI of the Spotify Java App:
 ![Main UI](screenshots/9.png)
 ![Main UI](screenshots/10.png)
 ![Main UI](screenshots/11.png)
+Make Database as:
+![Main UI](screenshots/12.png)
