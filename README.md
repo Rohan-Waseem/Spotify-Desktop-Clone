@@ -53,7 +53,7 @@ Java Developer | Learning by Building Real Projects
 ## Note
 This project uses locally stored audio files and retrieves song, artist, and user authentication data from a MySQL database. Passwords are securely hashed before storage for safe authentication. For full Spotify integration, an API connection and OAuth authentication are required (advanced implementation).
 ## Project Structure
-Make sure project has these files:
+Make sure project has these files:  
 Spotify-Desktop-Clone/
 ├── src/  
 ├── nbproject/  
